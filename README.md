@@ -22,3 +22,4 @@ Thank you for taking the time to explore my GitHub profile. Don't hesitate to re
 
 
 [![Instagram](https://img.shields.io/badge/Follow%20Me%20on-Instagram-%23bc2a8d?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayste4/)
+[![NPM Package](https://img.shields.io/npm/v/ayste4)](https://www.npmjs.com/package/ayste4)
