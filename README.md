@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 ## Connect with Me
 You can find me on Instagram as **[@ayste4](https://www.instagram.com/ayste4/)**.
+[![Instagram](https://img.shields.io/badge/Follow%20Me%20on-Instagram-%23bc2a8d?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayste4/)
 
 ## Projects
 I have a variety of projects on my GitHub, ranging from coding exercises to personal projects. Feel free to explore and provide feedback!
